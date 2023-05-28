@@ -9,3 +9,4 @@
 ## Starter Project 
 
 - [Image Classification Starter Project](/projects/image-classifier-starter.zip)
+- [Image Classification Dogs vs Cats Final](/projects/image-classifier-dog-vs-cat-final.zip)
