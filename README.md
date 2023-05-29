@@ -9,6 +9,7 @@
 ## Projects
 
 ### Image Classfication (Existing Model)
+- [Apple Machine Learning Official Page](https://developer.apple.com/machine-learning/models/)
 - [Download starter project](/projects//integrate-existing-model.zip)
 
 ### Image Classification (Cat and Dogs)
