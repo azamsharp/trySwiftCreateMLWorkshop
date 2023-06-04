@@ -23,6 +23,7 @@
 - [Object Classification Final]()
 
 ### Tabular Data 
+- [Carvana - Predict Car Prices](https://www.kaggle.com/datasets/ravishah1/carvana-predict-car-prices)
 - [Tabular Data Starter Project]()
 - [Tabular Data Final]() 
 
