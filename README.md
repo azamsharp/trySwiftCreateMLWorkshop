@@ -27,7 +27,3 @@
 - [Tabular Data Starter Project]()
 - [Tabular Data Final]() 
 
-
-### On Device Learning 
-- [On Device Training Starter Project]() 
-- [On Device Training Final]()
