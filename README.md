@@ -23,6 +23,11 @@
 - Object Classification Starter (Same as Image Classification Starter Project)
 - [Object Classification Final]()
 
+### Sentiment Analysis 
+- [Download Starter Project]()
+- [Financial News DataSet]()
+- [Sentiment Analysis Final]()
+
 ### Tabular Data 
 - [Carvana - Predict Car Prices](https://www.kaggle.com/datasets/ravishah1/carvana-predict-car-prices)
 - [Tabular Data Starter Project]()
