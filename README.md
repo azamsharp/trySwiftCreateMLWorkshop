@@ -16,7 +16,7 @@
 - [Download Cats and Dogs Image Classification Dataset](https://www.kaggle.com/datasets/samuelcortinhas/cats-and-dogs-image-classification)
 - [Image Classification Starter Project](/projects/image-classifier-starter.zip)
 - [Image Classification Dogs and Cats Final](/projects/image-classifier-dog-vs-cat-final.zip)
-- Activity 1: Fruits Classification 
+- Activity 1: Fruits Classification
 
 ### Object Classification 
 - [Visio ML Annotating Images](https://github.com/Gaspard-Bruno/visio-ml)
