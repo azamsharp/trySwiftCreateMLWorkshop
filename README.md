@@ -1,5 +1,8 @@
 
 # trySwift Create ML Workshop 
+Updated: 08/14/2023
+
+Welcome to trySwift workshop on CreateML for iOS developers. Below you can find the projects we will be working on. Please make sure you have the released version of Xcode, Apple device on which you can run your app and also download the datasets, models and projects shown below (specially the starter projects). If you have any questions then please don't hestistate to contact me. 
 
 ## Prerequisites  
 
