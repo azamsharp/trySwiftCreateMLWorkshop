@@ -12,7 +12,8 @@ Welcome to trySwift workshop on CreateML for iOS developers. Below you can find 
 ## Projects
 
 ### Image Classfication (Existing Model)
-- [Apple Machine Learning Official Page](https://developer.apple.com/machine-learning/models/)
+- [Apple Machine Learning Official Page](https://developer.apple.com/machine-learning/models/) (Download SqueezeNet
+Image Classification)
 - [Download starter project](/projects//integrate-existing-model.zip)
 
 ### Image Classification (Cat and Dogs)
