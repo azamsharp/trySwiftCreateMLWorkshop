@@ -16,7 +16,6 @@
 
 ### Image Classification (Cat and Dogs)
 
-- [Download Cats and Dogs Image Classification Dataset](/projects/cats-and-dogs-dataset.zip)
 - [Kaggle: Download Cats and Dogs Image Classification Dataset](https://www.kaggle.com/datasets/samuelcortinhas/cats-and-dogs-image-classification)
 
 - [Image Classification Starter Project](/projects/image-classifier-starter.zip)
