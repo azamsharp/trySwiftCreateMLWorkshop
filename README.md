@@ -9,7 +9,8 @@
 ## Projects
 
 ### Image Classfication (Existing Model)
-- [Apple Machine Learning Official Page](https://developer.apple.com/machine-learning/models/)
+
+- [Download the MobileNetV2 Image Classification Model](https://developer.apple.com/machine-learning/models/)
 - [Download Starter Project](/projects/image-recognition-starter.zip)
 - [Download Final Project](/projects//integrate-existing-model.zip)
 
