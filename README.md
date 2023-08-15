@@ -10,7 +10,8 @@
 
 ### Image Classfication (Existing Model)
 - [Apple Machine Learning Official Page](https://developer.apple.com/machine-learning/models/)
-- [Download starter project](/projects//integrate-existing-model.zip)
+- [Download Starter Project](/projects/image-recognition-starter.zip)
+- [Download Final Project](/projects//integrate-existing-model.zip)
 
 ### Image Classification (Cat and Dogs)
 - [Download Cats and Dogs Image Classification Dataset](https://www.kaggle.com/datasets/samuelcortinhas/cats-and-dogs-image-classification)
