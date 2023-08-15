@@ -15,7 +15,11 @@
 - [Download Final Project](/projects//integrate-existing-model.zip)
 
 ### Image Classification (Cat and Dogs)
+
+- [Download Cats and Dogs Image Classification Dataset](/projects/cats-and-dogs-dataset.zip)
+<!-- 
 - [Download Cats and Dogs Image Classification Dataset](https://www.kaggle.com/datasets/samuelcortinhas/cats-and-dogs-image-classification)
+-->
 - [Image Classification Starter Project](/projects/image-classifier-starter.zip)
 - [Image Classification Dogs and Cats Final](/projects/image-classifier-dog-vs-cat-final.zip)
 
