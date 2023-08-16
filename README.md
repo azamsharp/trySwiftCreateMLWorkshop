@@ -21,16 +21,19 @@
 - [Image Classification Starter Project](/projects/image-classifier-starter.zip)
 - [Image Classification Dogs and Cats Final](/projects/image-classifier-dog-vs-cat-final.zip)
 
-### Object Classification 
+### Object Detection 
+- [Article - Object Detection with Create ML](https://evilmartians.com/chronicles/object-detection-with-create-ml-images-and-dataset)
 - [Visio ML Annotating Images](https://github.com/Gaspard-Bruno/visio-ml)
-- Object Classification Starter (Same as Image Classification Starter Project)
-- [Object Classification Final]()
+- [Object Detection Starter](/projects/Object-Detection-Starter.zip)
+- [Object Detection Final](/projects/traffic-light-detector-final.zip)
+
+### Sentiment Analysis 
+- [Downloading the Financial News Dataset](https://www.kaggle.com/datasets/ankurzing/sentiment-analysis-for-financial-news)
+- [Sentiment Analysis Swift Playgrounds](/projects/sentiment-analysis-swift-playgrounds.zip)
+- [Sentiment Analysis Starter Project](/projects/FinancialNews-Starter.zip)
+- [Sentiment Analysis Final Project](/projects/FinancialNews-Final.zip)
 
 ### Tabular Data 
 - [Tabular Data Starter Project]()
 - [Tabular Data Final]() 
 
-
-### On Device Learning 
-- [On Device Training Starter Project]() 
-- [On Device Training Final]()
