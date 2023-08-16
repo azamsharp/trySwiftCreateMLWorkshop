@@ -17,7 +17,6 @@
 ### Image Classification (Cat and Dogs)
 
 - [Kaggle: Download Cats and Dogs Image Classification Dataset](https://www.kaggle.com/datasets/samuelcortinhas/cats-and-dogs-image-classification)
-
 - [Image Classification Starter Project](/projects/image-classifier-starter.zip)
 - [Image Classification Dogs and Cats Final](/projects/image-classifier-dog-vs-cat-final.zip)
 
@@ -30,6 +29,7 @@
 ### Sentiment Analysis 
 - [Downloading the Financial News Dataset](https://www.kaggle.com/datasets/ankurzing/sentiment-analysis-for-financial-news)
 - [Sentiment Analysis Swift Playgrounds](/projects/sentiment-analysis-swift-playgrounds.zip)
+- [OPTIONAL: Python Script](/projects/financial-news-sentimental-python.zip)
 - [Sentiment Analysis Starter Project](/projects/FinancialNews-Starter.zip)
 - [Sentiment Analysis Final Project](/projects/FinancialNews-Final.zip)
 
