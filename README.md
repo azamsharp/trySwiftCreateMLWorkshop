@@ -1,23 +1,28 @@
 
+![trySwift Logo](/projects/logo_riko_labs_navbar_nyc.png)
+
 # trySwift Create ML Workshop 
 
 ## Prerequisites  
 
 - Knowledge of Swift language is recommended 
 - Knowledge of SwiftUI framework is recommended 
+- Xcode 14.X is recommended 
+- Physical device is recommended. Make sure you can run iOS apps on your physical device through Xcode. 
+- Please make sure you have a [Kaggle](https://www.kaggle.com/) account. We wil use Kaggle to download datasets for our workshop. 
 
 ## Projects
 
 ### Image Classfication (Existing Model)
 
 - [Download the MobileNetV2 Image Classification Model](https://developer.apple.com/machine-learning/models/)
-- [Download Starter Project](/projects/image-recognition-starter.zip)
-- [Download Final Project](/projects//integrate-existing-model.zip)
+- [Image Classification Starter Project](/projects/image-classifier-starter.zip)
+- [Download Final Project](/projects/image-classifier-final-project-mobilenet.zip)
 
 ### Image Classification (Cat and Dogs)
 
 - [Kaggle: Download Cats and Dogs Image Classification Dataset](https://www.kaggle.com/datasets/samuelcortinhas/cats-and-dogs-image-classification)
-- [Image Classification Starter Project](/projects/image-classifier-starter.zip)
+- [Image Classification Starter Project](/projects/image-classifier-starter.zip) (Same as above)
 - [Image Classification Dogs and Cats Final](/projects/image-classifier-dog-vs-cat-final.zip)
 
 ### Object Detection 
@@ -36,4 +41,9 @@
 ### Tabular Data 
 - [Tabular Data Starter Project]()
 - [Tabular Data Final]() 
+
+### Activities (Only if time permits)
+
+
+
 
