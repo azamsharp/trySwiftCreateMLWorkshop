@@ -39,10 +39,9 @@
 - [Sentiment Analysis Final Project](/projects/FinancialNews-Final.zip)
 
 ### Tabular Data 
-- [Tabular Data Starter Project]()
-- [Tabular Data Final]() 
+- [Carvana Project Final](/projects/final-code-carvana.zip) 
 
-### Activities (Only if time permits)
+
 
 
 
