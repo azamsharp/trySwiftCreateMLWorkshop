@@ -24,6 +24,7 @@
 - [Kaggle: Download Cats and Dogs Image Classification Dataset](https://www.kaggle.com/datasets/samuelcortinhas/cats-and-dogs-image-classification)
 - [Image Classification Starter Project](/projects/image-classifier-starter.zip) (Same as above)
 - [Image Classification Dogs and Cats Final](/projects/image-classifier-dog-vs-cat-final.zip)
+- [Activity: Fruits Classification Dataset](https://www.kaggle.com/datasets/ayessa/fruits-image-dataset)
 
 ### Object Detection 
 - [Article - Object Detection with Create ML](https://evilmartians.com/chronicles/object-detection-with-create-ml-images-and-dataset)
