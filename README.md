@@ -41,8 +41,15 @@
 
 ### Tabular Data 
 - [Carvana Project Final](/projects/final-code-carvana.zip) 
-- [Activity - Coffee & Sleep DataSet](/projects/sleep.csv)
-- [Activity - Coffee & Sleep Xcode Project](/projects/CoffeeAndSleep-final.zip)
+
+#### Activity (Coffee & Sleep)
+
+- [DataSet as CSV File](/projects/sleep.csv)
+
+The following files contains the final code. But I encourage you to train the Coffee & Sleep model yourself and then create a SwiftUI/UIKit app to consume the model. 
+
+- [Xcode Playgrounds File - Final](/projects/CoffeeAndSleep.playground.zip)  
+- [SwiftUI Project Final](/projects/CoffeeAndSleep-final.zip)
 
 
 
