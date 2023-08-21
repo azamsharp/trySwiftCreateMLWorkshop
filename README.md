@@ -40,6 +40,8 @@
 
 ### Tabular Data 
 - [Carvana Project Final](/projects/final-code-carvana.zip) 
+- [Activity - Coffee & Sleep DataSet](/projects/sleep.csv)
+- [Activity - Coffee & Sleep Xcode Project](/projects/CoffeeAndSleep-final.zip)
 
 
 
