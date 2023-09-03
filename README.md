@@ -29,7 +29,6 @@
 ### Object Detection 
 - [Article - Object Detection with Create ML](https://evilmartians.com/chronicles/object-detection-with-create-ml-images-and-dataset)
 - [Visio ML Annotating Images](https://github.com/Gaspard-Bruno/visio-ml)
-- [Object Detection Starter](/projects/Object-Detection-Starter.zip)
 - [Object Detection Final](/projects/traffic-light-detector-final.zip)
 
 ### Sentiment Analysis 
